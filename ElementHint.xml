@@ -1,7 +1,7 @@
 <xml>
 	<hint>
 		<pageUrl>/ElementHint/index.html</pageUrl>
-		<elementID>bigContent</elementID>
+		<elementID>content</elementID>
 		<title>Big Content</title>
 		<body>This is a hint for the "bigContent" element.</body>
 	</hint>

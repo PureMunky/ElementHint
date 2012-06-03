@@ -1,0 +1,31 @@
+body {
+  font: Georgia, Ariel, Sans-Serif;
+  background-color: #FFFFFF;
+}
+
+div#page {
+  width: 960px;
+  margin: 20px auto;
+  float: none;
+  background: {
+    color: #CCCCCC;
+  }
+}
+
+div#header {
+  margin: 20px auto;
+}
+
+ul#navigation {
+  list-style-type: none;
+  clear: both;
+  padding: 0px 0px 10px 0px;
+  li {
+    margin: 0 5px 0 5px;
+    float: left;
+  }
+}
+
+div#content {
+  clear: both;
+}
